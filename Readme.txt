@@ -1,5 +1,7 @@
 // Useful Commands
 // truffle test
+// truffle compile
+// truffle migrate --reset
 
 // npm run start
 // run the system 
