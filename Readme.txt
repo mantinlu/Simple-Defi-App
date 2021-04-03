@@ -1,3 +1,5 @@
+// This is an simple defi app to demonstrate the probability for users to bank their money to the system to earn rewards of other token. 
+
 // Useful Commands
 // truffle test
 // truffle compile
